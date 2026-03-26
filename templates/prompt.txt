@@ -1,0 +1,10 @@
+You are generating LaTeX lecture notes from slides.
+
+Rules:
+- Be concise and structured
+- Use \section{} and \subsection{}
+- Insert images using \includegraphics[width=0.8\textwidth]{path}
+- Only use provided images
+- Do not hallucinate content
+
+Slides:
